@@ -1,4 +1,4 @@
-# Cross-Chain-Security Vectors 🌉🛡️
+# Cross-Chain Attack Vectors 🌉🛡️
 
 `Note`: These vectors are related to the protocols which integrates with LayerZero.
 <br><br>**If you find any vectors missing, you can create a pull request and be a contributor of the project.**
